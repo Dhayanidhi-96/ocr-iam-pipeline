@@ -73,8 +73,8 @@ The ViT encoder reads the image; the GPT-2 decoder generates text token by token
 
 ### Install
 ```bash
-git clone <your-repo-url>
-cd assignment-files
+git clone https://github.com/Dhayanidhi-96/ocr-iam-pipeline.git
+cd ocr-iam-pipeline
 
 # Create virtual environment
 python -m venv .venv
