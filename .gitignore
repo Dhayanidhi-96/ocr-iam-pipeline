@@ -1,0 +1,21 @@
+# Environment variables (never commit API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Model outputs (large files)
+outputs/checkpoint-*/
+outputs/models/model.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

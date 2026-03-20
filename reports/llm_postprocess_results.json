@@ -1,0 +1,117 @@
+{
+  "num_samples": 50,
+  "raw_ocr": {
+    "cer": 0.2016,
+    "wer": 0.4443
+  },
+  "llm_corrected": {
+    "cer": 0.2052,
+    "wer": 0.4704
+  },
+  "improvement": {
+    "cer_delta": -0.0036,
+    "wer_delta": -0.0261
+  },
+  "samples": [
+    {
+      "ref": "assuredness \" Bella Bella Marie \" ( Parlophone ) , a lively song that changes tempo mid-way .",
+      "raw": "ourselvesness. \" Bella Bella Belle Marie \" ( Christophe ), a lively song song that changes tempos tempo midway.",
+      "llm": "ourselvesness. \" Bella Belle Marie \" ( Christophe ), a lively song that changes tempo midway."
+    },
+    {
+      "ref": "I don't think he will storm the charts with this one , but it 's a good start .",
+      "raw": "I don't know the with this, but it's good.",
+      "llm": "I don't know the way with this, but it's good."
+    },
+    {
+      "ref": "CHRIS CHARLES , 39 , who lives in Stockton-on-Tees , is an accountant .",
+      "raw": "CHRISTS CHARLES, 35, who lives in Stockton-on - Tees, is an accountant.",
+      "llm": "CHRIST'S CHARLES, 35, who lives in Stockton-on-Tees, is an accountant."
+    },
+    {
+      "ref": "Become a success with a disc and hey presto ! You 're a star ... . Rolly sings with",
+      "raw": "Became a success with a disc and heg press'You're a star.... Rolly sings with",
+      "llm": "Became a success with a disc and hey press'You're a star.... Rolly sings with"
+    },
+    {
+      "ref": "Tolch , as he is known in Tin Pan Alley , likes songs with a month in the title . He wrote",
+      "raw": "Tolch, as he is known in Tin Pan Alley, lives songs with a month in the title. He wrote",
+      "llm": "Tolch, as he is known in Tin Pan Alley, lives songs with a month in the title. He wrote"
+    },
+    {
+      "ref": "\" My September Love , \" the big David Whitfield hit of 1956 .",
+      "raw": "Mr. M. September Love \", the big David Whitfield hit of 1956.",
+      "llm": "Mr. M. September Love, the big David Whitfield hit of 1956."
+    },
+    {
+      "ref": "He is also a director of a couple of garages . And he finds time as well to be a lyric",
+      "raw": "He is a director of garages. And he finds well to be a lyric",
+      "llm": "He is a director of garages. And he finds well to be a lyric song."
+    },
+    {
+      "ref": "writer . He writes with Tolchard Evans , composer of \" Lady of Spain \" and other big hits .",
+      "raw": "writer. He writes with Tolchard Evans, composer of \" Lady of Spain \" and other big hits.",
+      "llm": "writer. He writes with Tolchard Evans, composer of \" Lady of Spain \" and other big hits."
+    },
+    {
+      "ref": "The numbers include \" Scotland the Brave , \" \" Men of Harlech , \"",
+      "raw": "The numbers include \" Scotland the Brave, \" Men of Harlech, \"",
+      "llm": "The numbers include \" Scotland the Brave, \" Men of Harlech, \""
+    },
+    {
+      "ref": "Fay Compton stars in \" No Hiding Place \" (I T V , 9.35 p.m. ) .",
+      "raw": "day Compton stars in \" No Hiding Place \" ( I T N, 9. 35 p. ).",
+      "llm": "day Compton stars in \" No Hiding Place \" ( ITV, 9. 35 p. )."
+    },
+    {
+      "ref": "She plays the possessive mother of a man whose hobby revolves",
+      "raw": "she plays plays the possessive possessive mother mother of a man whose whole habit lately revolves",
+      "llm": "she plays the possessive mother of a man whose whole habit lately revolves around him"
+    },
+    {
+      "ref": "round a doll's house .",
+      "raw": "round a call's house.",
+      "llm": "round the call's house."
+    },
+    {
+      "ref": "THREE people will be hypnotised in tonight's \" Lifeline \"",
+      "raw": "THREE will be hypotised in tonight's \" Lifetime \"",
+      "llm": "THREE will be hypnotised in tonight's \"Lifetime\""
+    },
+    {
+      "ref": "( B B C , 10.15 ) .",
+      "raw": "( B BBE, 10.151. ).",
+      "llm": "(BBBE, 10.151.)"
+    },
+    {
+      "ref": "\" McNamara's Band , \" \" Greensleeves \" and \" English Rose . \"",
+      "raw": "\" Hemara's band, \" breegs \" and \" English boss. \"",
+      "llm": "\"Hemara's band, \"Breegs\" and \"English Boss.\""
+    },
+    {
+      "ref": "of Rhodesia and Nyasaland ( 10.30 p.m. ) .",
+      "raw": "of Rhodesia and Nyasakamyd ( io.30qm. ).",
+      "llm": "of Rhodesia and Nyasaland ( 10.30am )."
+    },
+    {
+      "ref": "They will be asked to comment on the design of everyday articles",
+      "raw": "They will be asked to comment on the design of everyday articles",
+      "llm": "They will be asked to comment on the design of everyday articles."
+    },
+    {
+      "ref": "playwright Arnold Wesker . \" Instead , Muggeridge's appointment",
+      "raw": "playwright Member. \" Instead, Maggie's appointment",
+      "llm": "playwright Member. \" Instead, Maggie's appointment"
+    },
+    {
+      "ref": "such as a chair and a motor-car . The idea is to see what happens when",
+      "raw": "such as a chair-car. The idea is set happens when",
+      "llm": "such as a chair-car. The idea is set in when"
+    },
+    {
+      "ref": "will be with Sir Roy Welensky the Premier of the Federation",
+      "raw": "will be with Sir Roy Welensky the Premier of the Federation",
+      "llm": "will be with Sir Roy Welensky, the Premier of the Federation"
+    }
+  ]
+}

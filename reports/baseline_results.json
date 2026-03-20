@@ -1,0 +1,88 @@
+{
+  "model": "microsoft/trocr-small-handwritten",
+  "num_samples": 200,
+  "cer": 0.0847,
+  "wer": 0.3067,
+  "samples": [
+    {
+      "ref": "assuredness \" Bella Bella Marie \" ( Parlophone ) , a lively song that changes tempo mid-way .",
+      "pred": "assuredness. \" Bella Bella Marie \" ( Rarlophone ), a lively song that changes tempo mid-way."
+    },
+    {
+      "ref": "I don't think he will storm the charts with this one , but it 's a good start .",
+      "pred": "I don't think he will storm the charts with this one, but it's a good start."
+    },
+    {
+      "ref": "CHRIS CHARLES , 39 , who lives in Stockton-on-Tees , is an accountant .",
+      "pred": "CHRISTS CHARLES, 39, who lives in Stockton - on - Tees, is an accountant."
+    },
+    {
+      "ref": "Become a success with a disc and hey presto ! You 're a star ... . Rolly sings with",
+      "pred": "become a success with a disc and key pesto! You're a star.. Rolly sings with"
+    },
+    {
+      "ref": "Tolch , as he is known in Tin Pan Alley , likes songs with a month in the title . He wrote",
+      "pred": "Idlch, as he is known in Tin Pan Alley, lives songs with a month in the title. He wrote"
+    },
+    {
+      "ref": "\" My September Love , \" the big David Whitfield hit of 1956 .",
+      "pred": "' My September Love, \", the big David Whitfield hit of 1956"
+    },
+    {
+      "ref": "He is also a director of a couple of garages . And he finds time as well to be a lyric",
+      "pred": "He is also a director of a couple of garages. And he finds time as well to be a lyric"
+    },
+    {
+      "ref": "writer . He writes with Tolchard Evans , composer of \" Lady of Spain \" and other big hits .",
+      "pred": "writer. He writes with Tolchard Evans, composer of \" Lady of Spain \" and other big hits."
+    },
+    {
+      "ref": "The numbers include \" Scotland the Brave , \" \" Men of Harlech , \"",
+      "pred": "The numbers include \" Scotland the Brave, \" \" Men of Harkech, \""
+    },
+    {
+      "ref": "Fay Compton stars in \" No Hiding Place \" (I T V , 9.35 p.m. ) .",
+      "pred": "Gay Compton stars in \" No Hiding, Place \" LIT\", \", 9. 35 p m.D."
+    },
+    {
+      "ref": "She plays the possessive mother of a man whose hobby revolves",
+      "pred": "She plays the possessive mother of a man whose hobby revolves"
+    },
+    {
+      "ref": "round a doll's house .",
+      "pred": "round a chalk's house."
+    },
+    {
+      "ref": "THREE people will be hypnotised in tonight's \" Lifeline \"",
+      "pred": "THREE people will be hypnotised in tonight's \" Likeline \""
+    },
+    {
+      "ref": "( B B C , 10.15 ) .",
+      "pred": "CBBE, 10. 15 )."
+    },
+    {
+      "ref": "\" McNamara's Band , \" \" Greensleeves \" and \" English Rose . \"",
+      "pred": "\" Mr Nawara's band, \" \" Greens leaves \" and \" English base. \""
+    },
+    {
+      "ref": "of Rhodesia and Nyasaland ( 10.30 p.m. ) .",
+      "pred": "of Rhodesia and Myrasahand ( 1030 p.d. )."
+    },
+    {
+      "ref": "They will be asked to comment on the design of everyday articles",
+      "pred": "They will be asked to comment on the design of everyday articles"
+    },
+    {
+      "ref": "playwright Arnold Wesker . \" Instead , Muggeridge's appointment",
+      "pred": "playwright Arnold Wecker. \" Instead, Muggeridge's appointment"
+    },
+    {
+      "ref": "such as a chair and a motor-car . The idea is to see what happens when",
+      "pred": "such as a chair and a motor-car. The idea is to see what happens when"
+    },
+    {
+      "ref": "will be with Sir Roy Welensky the Premier of the Federation",
+      "pred": "will be with Sir Roy Weleogsky the Premier at the F.der action"
+    }
+  ]
+}
