@@ -88,10 +88,7 @@ print("\n✅ Audit report saved → reports/data_audit.md")
 import matplotlib.pyplot as plt
 import json
 
-# ── Chart 1: Already done ─────────────────────────────────────
-# reports/text_length_dist.png ✅
-
-# ── Chart 2: Experiment Comparison Bar Chart ──────────────────
+#chart 2
 experiments = ['Broken\nBaseline', 'Fixed\nBaseline', 'Fine-tuned\n(Colab)', 'LLM\nPost-processed']
 cer_values  = [55.31, 8.48, 18.29, 20.52]
 wer_values  = [46.46, 30.72, 25.34, 47.04]
@@ -123,7 +120,7 @@ plt.savefig('reports/experiment_comparison.png')
 plt.close()
 print("✅ Saved → reports/experiment_comparison.png")
 
-# ── Chart 3: Error Type Distribution ─────────────────────────
+# Chart 3: Error Type Distribution
 error_types  = ['Char\nConfusion', 'Word\nSubstitution', 'Digit\nErrors', 'Repetition', 'Punctuation\nStyle']
 frequencies  = [35, 25, 8, 20, 12]  # approximate % from our analysis
 colors       = ['#e74c3c', '#e67e22', '#f1c40f', '#9b59b6', '#3498db']
